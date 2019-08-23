@@ -1,0 +1,46 @@
+.navbar{
+	background-color: #ffffff;
+	padding-left: 60px;
+	padding-right: 60px;
+	border-bottom: 20px;
+	border-color: green;
+}
+li{
+	font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+}
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.display4{
+	position: absolute;
+width: 554px;
+height: 146px;
+left: 299px;
+top: 321px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 120px;
+line-height: 73px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+button{
+	background:linear-gradient(180deg, #3A7F0D 0%, #49A010 100%);
+}
+.rounded{
+	border-radius: 50%;
+}
